@@ -1,4 +1,4 @@
-Hi there 👋, I'm Varaa Kukreti
+Hi there 👋, I'm Varaa Kukreti!
 
 Here are some ideas to get you started:
 
