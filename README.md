@@ -1,7 +1,5 @@
 Hi there 👋, I'm Varaa Kukreti!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on getting a masters of engineering in cybersecurity and hoping to start my PhD soon.
-- 🌱 I’m currently learning Reverse Engineering, and Binary Exploitation
+- 🔭 I’m have a masters of engineering in cybersecurity and am currently a PhD student in Computer Science at the University of Maryland.
+- 🌱 I’m currently learning Reverse Engineering, and Binary Exploitation as well as working on really interesting research projects.
 - 👯 I’m looking to collaborate on anything cybersecurity related - research, hands-on project, or nerdy-jokes haha
